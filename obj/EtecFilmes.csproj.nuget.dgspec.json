@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Desktop\\EtecFilmes\\EtecFilmes.csproj": {}
+    "C:\\Users\\etec\\Documents\\GitHub\\EtecFilmes\\EtecFilmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Desktop\\EtecFilmes\\EtecFilmes.csproj": {
+    "C:\\Users\\etec\\Documents\\GitHub\\EtecFilmes\\EtecFilmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Desktop\\EtecFilmes\\EtecFilmes.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Documents\\GitHub\\EtecFilmes\\EtecFilmes.csproj",
         "projectName": "EtecFilmes",
-        "projectPath": "C:\\Users\\etec\\Desktop\\EtecFilmes\\EtecFilmes.csproj",
+        "projectPath": "C:\\Users\\etec\\Documents\\GitHub\\EtecFilmes\\EtecFilmes.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Desktop\\EtecFilmes\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Documents\\GitHub\\EtecFilmes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,12 @@
               "target": "Package",
               "version": "[5.0.15, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.12, )"
@@ -63,6 +69,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
